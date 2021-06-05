@@ -6,5 +6,5 @@
 ## Links 
 Course: [https://www.udemy.com/course/vuejs-2-the-complete-guide/](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 
-## Relevant Screenshots
-https://github.com/carloswm85/2021-udm-vue-02/blob/56154a4dab4fd064381806487d136ee1305713bc/screenshots/01.png
+## Relevant Screenshots from the Course
+![What's Vue?](https://github.com/carloswm85/2021-udm-vue-02/blob/56154a4dab4fd064381806487d136ee1305713bc/screenshots/01.png)
